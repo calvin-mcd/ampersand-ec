@@ -141,19 +141,19 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 51.435 117.475 0) (unit 1)
+  (symbol (lib_id "Mechanical:MountingHole") (at 51.435 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 18ffdcd2-a48b-4554-8f86-8e38f92d627b)
-    (property "Reference" "H25" (at 53.975 116.6403 0)
+    (property "Reference" "H25" (at 53.975 110.9253 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole" (at 53.975 119.1772 0)
+    (property "Value" "MountingHole" (at 53.975 113.4622 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "cipulot_parts:HOLE_M2" (at 51.435 117.475 0)
+    (property "Footprint" "cipulot_parts:HOLE_M2" (at 51.435 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 51.435 117.475 0)
+    (property "Datasheet" "~" (at 51.435 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -188,58 +188,6 @@
       (project "forti EC"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce/55e2d8c6-9092-40f0-965e-73dea8a35aef"
           (reference "H25") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Mechanical:MountingHole") (at 51.435 98.425 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 2a74bc44-a40d-4660-922e-b773ce62b745)
-    (property "Reference" "H19" (at 53.975 97.5903 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (at 53.975 100.1272 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "cipulot_parts:HOLE_M2" (at 51.435 98.425 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 51.435 98.425 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "the-nicholas-van"
-        (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
-          (reference "H19") (unit 1)
-        )
-        (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b/610cabd0-87c8-472b-8f6a-63e84b5c9031"
-          (reference "H19") (unit 1)
-        )
-      )
-      (project "mounting holes"
-        (path "/5a4b5506-e3f1-48e7-9020-bb3c3e3fc15f"
-          (reference "H19") (unit 1)
-        )
-      )
-      (project "travaulta"
-        (path "/690df46b-b605-4617-b545-6aaced86d0fc/794114ef-7db2-4f90-86d0-13c32bb11aa3"
-          (reference "H5") (unit 1)
-        )
-      )
-      (project "EC60"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/004107b0-ccf4-476d-9504-97bf1a9256af"
-          (reference "H1") (unit 1)
-        )
-      )
-      (project "ampersand"
-        (path "/e827c860-43eb-4910-9ede-2f2080093daa/529a754c-c9af-494c-aed5-3f327fcdc592"
-          (reference "H19") (unit 1)
-        )
-      )
-      (project "forti EC"
-        (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce/55e2d8c6-9092-40f0-965e-73dea8a35aef"
-          (reference "H19") (unit 1)
         )
       )
     )
@@ -297,19 +245,19 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 51.435 104.775 0) (unit 1)
+  (symbol (lib_id "Mechanical:MountingHole") (at 51.435 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2d6ffc25-9dc1-4944-b471-309e382090d5)
-    (property "Reference" "H21" (at 53.975 103.9403 0)
+    (property "Reference" "H21" (at 53.975 98.2253 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole" (at 53.975 106.4772 0)
+    (property "Value" "MountingHole" (at 53.975 100.7622 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "cipulot_parts:HOLE_M2" (at 51.435 104.775 0)
+    (property "Footprint" "cipulot_parts:HOLE_M2" (at 51.435 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 51.435 104.775 0)
+    (property "Datasheet" "~" (at 51.435 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -401,19 +349,19 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 51.435 111.125 0) (unit 1)
+  (symbol (lib_id "Mechanical:MountingHole") (at 51.435 105.41 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 347df800-8572-421b-9d20-2e9fa994a984)
-    (property "Reference" "H23" (at 53.975 110.2903 0)
+    (property "Reference" "H23" (at 53.975 104.5753 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole" (at 53.975 112.8272 0)
+    (property "Value" "MountingHole" (at 53.975 107.1122 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "cipulot_parts:HOLE_M2" (at 51.435 111.125 0)
+    (property "Footprint" "cipulot_parts:HOLE_M2" (at 51.435 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 51.435 111.125 0)
+    (property "Datasheet" "~" (at 51.435 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -609,19 +557,19 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 76.835 104.775 0) (unit 1)
+  (symbol (lib_id "Mechanical:MountingHole") (at 76.835 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6192a3ff-0e5e-4e27-b048-e7f20f9914b8)
-    (property "Reference" "H22" (at 79.375 103.9403 0)
+    (property "Reference" "H22" (at 79.375 98.2253 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole" (at 79.375 106.4772 0)
+    (property "Value" "MountingHole" (at 79.375 100.7622 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "cipulot_parts:HOLE_M2" (at 76.835 104.775 0)
+    (property "Footprint" "cipulot_parts:HOLE_M2" (at 76.835 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 76.835 104.775 0)
+    (property "Datasheet" "~" (at 76.835 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -869,19 +817,19 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 76.835 111.125 0) (unit 1)
+  (symbol (lib_id "Mechanical:MountingHole") (at 76.835 105.41 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aeb4ba4d-71a7-47c6-bf6c-c128758c70b8)
-    (property "Reference" "H24" (at 79.375 110.2903 0)
+    (property "Reference" "H24" (at 79.375 104.5753 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole" (at 79.375 112.8272 0)
+    (property "Value" "MountingHole" (at 79.375 107.1122 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "cipulot_parts:HOLE_M2" (at 76.835 111.125 0)
+    (property "Footprint" "cipulot_parts:HOLE_M2" (at 76.835 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 76.835 111.125 0)
+    (property "Datasheet" "~" (at 76.835 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -968,110 +916,6 @@
       (project "forti EC"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce/55e2d8c6-9092-40f0-965e-73dea8a35aef"
           (reference "H3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Mechanical:MountingHole") (at 76.835 98.425 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid bea78ff4-7247-48dd-a799-032bafd22d5f)
-    (property "Reference" "H20" (at 79.375 97.5903 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (at 79.375 100.1272 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "cipulot_parts:HOLE_M2" (at 76.835 98.425 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 76.835 98.425 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "the-nicholas-van"
-        (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
-          (reference "H20") (unit 1)
-        )
-        (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b/610cabd0-87c8-472b-8f6a-63e84b5c9031"
-          (reference "H20") (unit 1)
-        )
-      )
-      (project "mounting holes"
-        (path "/5a4b5506-e3f1-48e7-9020-bb3c3e3fc15f"
-          (reference "H20") (unit 1)
-        )
-      )
-      (project "travaulta"
-        (path "/690df46b-b605-4617-b545-6aaced86d0fc/794114ef-7db2-4f90-86d0-13c32bb11aa3"
-          (reference "H13") (unit 1)
-        )
-      )
-      (project "EC60"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/004107b0-ccf4-476d-9504-97bf1a9256af"
-          (reference "H1") (unit 1)
-        )
-      )
-      (project "ampersand"
-        (path "/e827c860-43eb-4910-9ede-2f2080093daa/529a754c-c9af-494c-aed5-3f327fcdc592"
-          (reference "H20") (unit 1)
-        )
-      )
-      (project "forti EC"
-        (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce/55e2d8c6-9092-40f0-965e-73dea8a35aef"
-          (reference "H20") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Mechanical:MountingHole") (at 76.835 117.475 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid c863fcc9-73ce-4a9a-b172-d14c4af5909a)
-    (property "Reference" "H26" (at 79.375 116.6403 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (at 79.375 119.1772 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "cipulot_parts:HOLE_M2" (at 76.835 117.475 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 76.835 117.475 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "the-nicholas-van"
-        (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
-          (reference "H26") (unit 1)
-        )
-        (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b/610cabd0-87c8-472b-8f6a-63e84b5c9031"
-          (reference "H26") (unit 1)
-        )
-      )
-      (project "mounting holes"
-        (path "/5a4b5506-e3f1-48e7-9020-bb3c3e3fc15f"
-          (reference "H26") (unit 1)
-        )
-      )
-      (project "travaulta"
-        (path "/690df46b-b605-4617-b545-6aaced86d0fc/794114ef-7db2-4f90-86d0-13c32bb11aa3"
-          (reference "H16") (unit 1)
-        )
-      )
-      (project "EC60"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/004107b0-ccf4-476d-9504-97bf1a9256af"
-          (reference "H1") (unit 1)
-        )
-      )
-      (project "ampersand"
-        (path "/e827c860-43eb-4910-9ede-2f2080093daa/529a754c-c9af-494c-aed5-3f327fcdc592"
-          (reference "H26") (unit 1)
-        )
-      )
-      (project "forti EC"
-        (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce/55e2d8c6-9092-40f0-965e-73dea8a35aef"
-          (reference "H26") (unit 1)
         )
       )
     )
