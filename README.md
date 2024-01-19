@@ -5,7 +5,7 @@ This an open-source (and highly experimental!!!) EC (topre) pcb for the Ampersan
 ## Warning:
 
 - *As the Ampersand case is designed for an MX pcb, the EC pcb requires testing. There is no garantuee that it would fit into the case without modifications of at least a few topre housings and perhaps another oring.*
-- *In order to allow for more bottom row options and enough pcb/plate assembly holes the plate plate mounted stabs for the 3u and 6u options but only a costar stabiliser for the 7u.*
+- *In order to allow for more bottom row options and enough pcb/plate assembly holes the plate supports plate mounted stabs for the 3u and 6u options but only a costar stabiliser for the 7u.*
 
 ## Layout
 
