@@ -4,6 +4,8 @@ This an open-source (and highly experimental!!!) EC (topre) pcb for the Ampersan
 
 ## Warning:
 
+- *DO NOT USE THE CURRENT PRODUCTION FILES!!!* they are out of date!
+
 - *As the Ampersand case is designed for an MX pcb, the EC pcb requires testing. There is no garantuee that it would fit into the case without modifications of at least a few topre housings and perhaps another oring.*
 
 ## Layout
@@ -16,8 +18,8 @@ various plate files had been made and are available as kicad files and dxfs.
 
 ## Todo
 
+- [ ] update gerber files for production
 - [ ] order pcb, plates
-- [ ] make sure firmware has the right ADC channel for stm072
 - [ ] test pcb in case
 
 ## Disclaimer
