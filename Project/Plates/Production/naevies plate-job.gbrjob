@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "8.0.8"
     },
-    "CreationDate": "2025-02-20T19:21:00+01:00"
+    "CreationDate": "2025-02-20T19:46:03+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "ampersand",
-      "GUID": "616d7065-7273-4616-9e64-2e6b69636164",
+      "Name": "naevies plate",
+      "GUID": "6e616576-6965-4732-9070-6c6174652e6b",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 257.2468,
-      "Y": 76.2731
+      "X": 257.375,
+      "Y": 76.4
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -27,54 +27,33 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.2,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "ampersand-F_Cu.gbr",
+      "Path": "naevies plate-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ampersand-B_Cu.gbr",
-      "FileFunction": "Copper,L2,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "ampersand-F_Paste.gbr",
+      "Path": "naevies plate-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ampersand-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "ampersand-F_Silkscreen.gbr",
+      "Path": "naevies plate-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ampersand-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "ampersand-F_Mask.gbr",
+      "Path": "naevies plate-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ampersand-B_Mask.gbr",
-      "FileFunction": "SolderMask,Bot",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "ampersand-Edge_Cuts.gbr",
+      "Path": "naevies plate-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
