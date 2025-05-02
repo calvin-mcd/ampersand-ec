@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "7u ISO small mods.kicad_pro",
+    "filename": "naevies plate proto.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -485,10 +485,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Production",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "naevies plate old.step",
       "svg": "",
       "vrml": ""
     },
