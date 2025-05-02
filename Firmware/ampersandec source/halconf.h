@@ -1,3 +1,4 @@
+
 #pragma once
 
 #define HAL_USE_ADC TRUE
