@@ -1,12 +1,12 @@
 # ampersand ec
 
-This an open-source (and highly experimental!!!) EC (topre) pcb for the Ampersand keyboard designed by whitefacemountain. Ampersand is a gummyworm mounted 13.5u keyboard with minimum 40s support needed.
+This an open-source, experimental 2-layer EC pcb for the Ampersand keyboard designed by whitefacemountain. Ampersand is a gummyworm mounted 13.5u keyboard with minimum 40s support needed.
 
 The firmware has been adapted by whitefacemountain and is based on [cipulot](https://cipulot.squarespace.com/)'s Menhir firmware.
 
-## Warning:
+## Disclaimer:
 
-- *As the Ampersand case is designed for an MX pcb, the EC pcb requires testing. There is no garantuee that it would fit into the case without modifications of at least a few topre housings and perhaps another oring.*
+*As the Ampersand case is designed for a MX pcb using an oring, this EC pcb requires the use of [EC naevies](https://keyboardtreehouse.com/products/naevies-ec-switches) switches. Other EC switches might only work with heavy modifications of the outer housings.**
 
 ## Layout
 
@@ -18,9 +18,7 @@ various plate files had been made and are available as kicad files and dxfs.
 
 ## Todo
 
-- [X] update gerber files for production
-- [X] order pcb, plates
-- [X] test pcb in case
+- [ ] order & test the revision (to eliminate an error with the bottom right control switch)
 
 ## Disclaimer
 
