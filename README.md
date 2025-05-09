@@ -16,7 +16,7 @@ The firmware has been adapted by whitefacemountain and is based on [cipulot](htt
 
 various plate files had been made and are available as kicad files and dxfs.
 
-## Todo
+## To do
 
 - [ ] order & test the revision (to eliminate an error with the bottom right control switch)
 
