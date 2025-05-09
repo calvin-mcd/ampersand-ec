@@ -14,7 +14,7 @@ The firmware has been adapted by whitefacemountain and is based on [cipulot](htt
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/8dab2e8f328350c2c207f04be2b3e7d4)
 
-various plate files had been made and are available as kicad files and dxfs.
+There is currently only one naevies switch plate (7u, ansi, split right shift) available. More can be made available on request.
 
 ## To do
 
