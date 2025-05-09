@@ -6,7 +6,7 @@ The firmware has been adapted by whitefacemountain and is based on [cipulot](htt
 
 ## Disclaimer:
 
-*As the Ampersand case is designed for a MX pcb using an oring, this EC pcb requires the use of [EC naevies](https://keyboardtreehouse.com/products/naevies-ec-switches) switches. Other EC switches might only work with heavy modifications of the outer housings.**
+*As the Ampersand case is designed for a MX pcb using an oring, this EC pcb requires the use of [EC naevies](https://keyboardtreehouse.com/products/naevies-ec-switches) switches. Other EC switches might only work with heavy modifications of the outer housings.*
 
 ## Layout
 
@@ -18,7 +18,7 @@ various plate files had been made and are available as kicad files and dxfs.
 
 ## To do
 
-- [ ] order & test the revision (to eliminate an error with the bottom right control switch)
+- [ ] order & test the revision (to eliminate an error with the bottom right control switch which is currently continuously triggered)
 
 ## Disclaimer
 
